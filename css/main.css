@@ -1,0 +1,134 @@
+
+/*          Etiquetas       */
+img{
+    max-width: 100%;
+}
+
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+a:hover{
+    text-decoration:none;
+}
+
+/*          Fuentes         */
+.font-Rock-Salt{
+    font-family: 'Rock Salt', cursive;
+}
+
+.font-Kaushan{
+    font-family: 'Kaushan Script', cursive;
+}
+
+.font-lobster{
+    font-family: 'Lobster', cursive;
+}
+
+
+/*          Clases          */
+
+.quitar-float{
+    float: none;
+}
+
+.pad-btn{
+    margin-top: 15px;
+    min-width: 100%;
+    
+}
+.no-lista{
+    margin: 0px;
+    padding: 0px;
+}
+
+.no-lista li{
+    list-style-type: none;
+}
+
+.espacio-arriba{
+    margin-top: 50px;
+}
+
+.espacio-arriba-md{
+    margin-top: 25px;
+}
+
+.inline-block{
+    float: none;
+    display: inline-block;
+    margin-right: -4px;
+}
+
+.letra-px-md{
+    font-size: 16px;
+}
+
+.letra-em-1{
+    font-size: 1em;
+}
+
+.letra-em-2{
+    font-size: 2em;
+}
+
+.letra-em-3{
+    font-size: 3em;
+}
+
+.letra-muy-Grande{
+    font-size: 7em;
+}
+
+.centrado{
+    margin-left: auto;
+    margin-right: auto;
+}
+.tabla-cal{
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    border: 1px solid #000;
+}
+
+table tr td{
+    text-align: center;
+    border: 1px solid #000;
+}
+.button{
+    min-width: 100%;
+}
+/*          Animate         */
+
+.retraso-05{
+    -moz-animation-delay: 0.5s;
+    -webkit-animation-delay: 0.5s;
+    animation-delay: 0.5s;
+}
+.retraso-1{
+    -moz-animation-delay: 1s;
+    -webkit-animation-delay: 1s;
+    animation-delay: 1s;
+}
+
+
+/*          Colores         */
+.txt-rosa{
+    color: #E8B4E4;
+}
+
+.txt-azul-1{
+    color: #6BC9FF;
+
+}
+.txt-azul-2{
+    color: 	#357FD8;
+}
+.txt-azul-3{
+    color: 	#396AC9;
+
+}
+.txt-azul-4{
+    color: 	#001847;
+
+}
